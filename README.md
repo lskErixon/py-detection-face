@@ -50,7 +50,7 @@ This project is a functional base for learning, experimentation, or building som
 
 This guide explains how to set up and run the face recognition application in a Python virtual environment.
 
-### 1. Navigate to your project folder
+## 1. Navigate to your project folder
 
 Open your terminal and run:
 
